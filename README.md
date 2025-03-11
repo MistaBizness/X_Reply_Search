@@ -12,12 +12,6 @@ For example, if you're on a post like `https://x.com/elonmusk/status/18955823211
 - **Instant Focus**: The keyword input field is automatically selected when opening the extension.
 - **Simple Interface**: Clean, user-friendly popup design.
 
-## Installation
-### From Chrome Web Store (Once Published)
-1. Visit the extension's page on the [Chrome Web Store](#) (link TBD after publishing).
-2. Click "Add to Chrome" and confirm the installation.
-3. The extension icon will appear in your Chrome toolbar.
-
 ### Manual Installation (For Development)
 1. Clone or download this project folder.
 2. Open Chrome and go to `chrome://extensions/`.
